@@ -9,6 +9,7 @@ width: 800px;
   text-align:center;
 }
 .table {
-  background-color: rgb(217, 140, 179);
+  background-color: rgb(217, 217, 217);
   border: 1px dashed black;
+  width: 800px;
 }
