@@ -4,3 +4,7 @@ background-color: rgb(194,194,214);
 #ui {
 width: 800px;
 }
+th {
+  width: 200px;
+  text-align: center;
+}
