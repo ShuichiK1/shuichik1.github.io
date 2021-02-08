@@ -3,10 +3,11 @@ background-color: rgb(194,194,214);
 }
 #ui {
 width: 800px;
-background-color: rgb(217, 140, 179)'
-  border: dashed;
 }
 #ui-but {
   width: 200px;
   text-align:center;
+}
+.table {background-color: rgb(217, 140, 179);
+  border: dashed;
 }
