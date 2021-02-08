@@ -8,6 +8,7 @@ width: 800px;
   width: 200px;
   text-align:center;
 }
-.table {background-color: rgb(217, 140, 179);
-  border: dashed;
+.table {
+  background-color: rgb(217, 140, 179);
+  border: 1px dashed black;
 }
