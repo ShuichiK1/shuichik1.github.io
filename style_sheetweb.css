@@ -10,9 +10,9 @@ width: 800px;
 }
 .table {
   background-color: rgb(217, 217, 217);
-  border: 1px dashed black;
+  border: dashed black;
   width: 800px;
 }
-.para {
+#para {
   width: 800px;
 }
