@@ -22,3 +22,6 @@ h1 {
 #dancing-bit {
   width: 400px;
 }
+#racing-bit {
+  float: left;
+}
