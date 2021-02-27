@@ -19,4 +19,20 @@ width: 800px;
 h1 {
   font-family: Helvetica, sans-serif;
 }
-
+/* CSS for JavaScript.html */
+#dancing-bit {
+  width: 350px;
+  length: 200px;
+}
+#racing-bit {
+  width: 350px;
+  length: 200px;
+}
+#decision-bit {
+  width: 350px;
+  length: 200px;
+}
+#follow-bit {
+  width: 350px;
+  length: 200px;
+}
