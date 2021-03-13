@@ -37,10 +37,12 @@ h1 {
   length: 200px;
 }
 #zoo-bit {
+  text-align: center;
   width: 50%;
   length: 200px;
 }
 #tag-bit {
+  text-align: center;
   width: 50%;
   length: 200px;
 }
