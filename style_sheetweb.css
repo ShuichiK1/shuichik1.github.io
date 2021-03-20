@@ -41,7 +41,17 @@ h1 {
   width: 350px;
   length: 200px;
 }
+#zoo-pic {
+  text-align: center;
+  width: 350px;
+  length: 200px;
+}  
 #tag-bit {
+  text-align: center;
+  width: 350px;
+  length: 200px;
+}
+#tag-pic {
   text-align: center;
   width: 350px;
   length: 200px;
